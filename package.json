@@ -1,0 +1,20 @@
+{
+  "name": "thedoctoracademy",
+  "version": "1.0.0",
+  "description": "The Doctor Academy - Sito web ufficiale",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "minigp",
+    "academy",
+    "racing"
+  ],
+  "author": "The Doctor Academy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
